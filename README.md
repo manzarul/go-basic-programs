@@ -1,6 +1,7 @@
 # go-basic-programs
 ## prerequisite to run go program
 - install the GO language , ref : https://go.dev/doc/install
+- go version // to confirm go is install properly
 ## Go program can be run as follow
 - go run {path-of-go-file} // this step will interally compile and run the program
 - OR you can first compile it then it will generate {file-name}.exe file and you can directly run this exe file.
